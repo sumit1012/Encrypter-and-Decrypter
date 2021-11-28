@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Encrypt-and-Decrypt--master/src"/>
+	<classpathentry kind="lib" path="Encrypt-and-Decrypt--master/dist/FINALEncryptDecrypt.jar"/>
+	<classpathentry kind="output" path="Encrypt-and-Decrypt--master/build/classes"/>
+</classpath>
